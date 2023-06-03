@@ -4,6 +4,7 @@
     <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm But.<br>
+        You can see some of my projects below 👇
     </i> <br>
 <!--     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
