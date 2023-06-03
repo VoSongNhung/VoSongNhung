@@ -8,7 +8,7 @@
              <a href="https://www.facebook.com/nhung.vs58/">
                 <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
             </a>
-            <a padding-left="50px" href="mailto:vosongnhung@gmail.com">
+            <a margin-left="50px" href="mailto:vosongnhung@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
             </a>
     </i> <br>
