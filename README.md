@@ -42,7 +42,7 @@
 ### Technologies & Frameworks
 <!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad) -->
 [![React](https://img.shields.io/badge/spring--boot-black?style=for-the-badge&logo=spring)](https://github.com/VoSongNhung)
-[![Spring Boot](https://img.shields.io/badge/spring--boot-2.5.0-black&logo=spring)](https://github.com/VoSongNhung)
+[![Spring Boot](https://img.shields.io/badge/spring--boot-black?style=for-the-badge&logo=spring)](https://github.com/VoSongNhung)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/VoSongNhung)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/VoSongNhung)
 <!-- [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad) -->
