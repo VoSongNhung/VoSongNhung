@@ -4,7 +4,13 @@
     <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm But.<br>
-        You can see some of my projects below 👇
+        You can see some of my projects below 👇 <br>
+     <a href="https://www.facebook.com/nhung.vs58/">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
+    </a>
+    <a href="mailto:vosongnhungc@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
+    </a>
     </i> <br>
 <!--     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -42,7 +48,7 @@
 
 ### Technologies & Frameworks
 <!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad) -->
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/VoSongNhung)
+<!-- [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/VoSongNhung) -->
 [![Spring Boot](https://img.shields.io/badge/spring--boot-black?style=for-the-badge&logo=spring)](https://github.com/VoSongNhung)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/VoSongNhung)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/VoSongNhung)
