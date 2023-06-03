@@ -4,8 +4,8 @@
     <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm But.<br>
-        You can contact me by 👇 <br>
-             <a href="https://www.facebook.com/nhung.vs58/">
+        You can contact with me by 👇 <br><br>
+             <a padding-left="5px" href="https://www.facebook.com/nhung.vs58/">
                 <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
             </a>
             <a href="mailto:vosongnhungc@gmail.com">
