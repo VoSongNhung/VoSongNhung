@@ -1,7 +1,7 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm But.<br>
     </i> <br>
@@ -22,12 +22,13 @@
 ### Languages
 <!-- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad) -->
 <!-- [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad) -->
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/VoSongNhung)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/VoSongNhung)
 <!-- [![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/wervlad) -->
 <!-- [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad) -->
 <!-- [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad) -->
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+
 
 <!-- ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
@@ -52,24 +53,24 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+  <a href="https://github.com/VoSongNhung">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoSongNhung&theme=transparent" />
   </a>
   <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoSongNhung&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VoSongNhung&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/VoSongNhung">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  <a href="https://github.com/VoSongNhung">
+    <img src="https://komarev.com/ghpvc/?username=VoSongNhung&color=blue&style=flat)" />
   </a>
 </p>
 <!--
