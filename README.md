@@ -5,10 +5,10 @@
     <i>
         I'm But.<br>
         You can contact with me by 👇 <br><br>
-             <a padding-left="5px" href="https://www.facebook.com/nhung.vs58/">
+             <a padding-left="50px" href="https://www.facebook.com/nhung.vs58/">
                 <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
             </a>
-            <a href="mailto:vosongnhungc@gmail.com">
+            <a href="mailto:vosongnhung@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
             </a>
     </i> <br>
