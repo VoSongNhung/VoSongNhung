@@ -8,7 +8,7 @@
 <!--     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a> -->
-    <a href="https://www.kaggle.com/wervlad">
+<!--     <a href="https://www.kaggle.com/wervlad">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
     <a href="https://stepik.org/users/108517510">
@@ -16,7 +16,7 @@
     </a>
     <a href="https://leetcode.com/wervlad">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+    </a> -->
 </p>
 
 ### Languages
